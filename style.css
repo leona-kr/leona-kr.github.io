@@ -21,3 +21,28 @@ button{border:0;}
 body, input, textarea, button, select{
 	font-family:'맑은 고딕','malgun gothic','나눔고딕',nanumgothic,'돋움',dotum;
 }
+
+/* layout */
+#container{
+	border: 1px solid #555;
+	padding: 10px;
+}
+header {
+	min-height: 130px;
+	margin-bottom:10px;
+	border: 1px solid #c8e1ff;
+	background-color: #f1f8ff;
+	border-radius: 10px;
+}
+#contents {
+	min-height: 400px;
+	margin-bottom:10px;
+	border: 1px solid #e1e4e8;
+	background-color: #fafbfc;
+}
+footer{
+	min-height:50px;
+	border: 1px solid rgba(27,31,35,0.15);
+	background-color: #f6f8fa;
+	border-radius: 10px;
+}

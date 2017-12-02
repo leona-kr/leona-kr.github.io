@@ -40,6 +40,12 @@ header {
 	background-color: #fafbfc;
 	border-radius: 10px;
 }
+#contents .visual{
+	margin-bottom: 10px;
+}
+#contents .visual img {
+	max-width: 100%;
+}
 footer{
 	min-height:50px;
 	border: 1px solid rgba(27,31,35,0.15);

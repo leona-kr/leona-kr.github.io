@@ -24,21 +24,21 @@ body, input, textarea, button, select{
 
 /* layout */
 #container{
-	border: 1px solid #555;
-	padding: 10px;
+	padding: 20px;
 }
 header {
 	min-height: 130px;
-	margin-bottom:10px;
+	margin-bottom:20px;
 	border: 1px solid #c8e1ff;
 	background-color: #f1f8ff;
 	border-radius: 10px;
 }
 #contents {
 	min-height: 400px;
-	margin-bottom:10px;
+	margin-bottom:20px;
 	border: 1px solid #e1e4e8;
 	background-color: #fafbfc;
+	border-radius: 10px;
 }
 footer{
 	min-height:50px;
